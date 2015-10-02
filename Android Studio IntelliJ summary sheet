@@ -1,0 +1,9 @@
+- Search Everwhere with Double Shift
+- Open a file by name with Ctrl + Shift + O (Ctrl + Shift + N)
+- Open Recent files with Ctrl + E
+- Open Navigation Bar with Ctrl + up (Alt + Home)
+- Drag'n'Drop files from Explorer
+
+Technologies:
+IntelliJ IDE
+Gradle - used to compile/build the app.
