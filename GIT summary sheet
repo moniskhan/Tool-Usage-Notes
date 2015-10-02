@@ -1,0 +1,18 @@
+SE 465 fork/clone:
+ssh git@ecgit.uwaterloo.ca fork se465/1151/a3 se465/1151/ma69khan/a3
+
+git clone git@ecgit.uwaterloo.ca:se465/1151/a3 se465a3
+
+project clone: git clone git@ecgit.uwaterloo.ca:se465/1151/project/g87 se465p
+
+
+git pull origin master
+git push origin master
+git commit -m "commit message"
+git add .
+
+When submitting SE465 assigments, push local master branch to your remote folder:
+git push git@ecgit.uwaterloo.ca:se465/1151/ma69khan/a3 master
+
+To store password information:
+git config --global credential.helper wincred
