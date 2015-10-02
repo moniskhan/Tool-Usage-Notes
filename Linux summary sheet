@@ -1,0 +1,5 @@
+LINUX:
+g++ -o a3 a3.cpp
+./a3 <input
+time ./a3 <input
+submit cs341 3 . //after placing all files in cs341
